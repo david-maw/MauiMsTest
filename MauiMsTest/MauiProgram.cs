@@ -15,4 +15,6 @@ public static class MauiProgram
 
 		return builder.Build();
 	}
+    public static int Add1(int i) => i + 1;
+
 }
